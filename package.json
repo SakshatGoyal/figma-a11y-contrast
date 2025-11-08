@@ -1,0 +1,11 @@
+{
+  "name": "figma-a11y-contrast",
+  "version": "0.1.0",
+  "description": "Figma plugin replicating A11y Contrast Checker core functionality.",
+  "scripts": {
+    "build": "echo \"Build script placeholder\"",
+    "test": "echo \"Test script placeholder\""
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
