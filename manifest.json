@@ -1,0 +1,6 @@
+{
+  "name": "A11y Contrast (Clone)",
+  "api": "1.0.0",
+  "editorType": ["figma", "figjam"],
+  "main": "dist/code.js"
+}
